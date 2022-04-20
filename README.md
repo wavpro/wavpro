@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wavpro
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning tailwind and next.js
+- 🌱 I’m currently learning sequelize and next.js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:  
     Discord: Wavpro#3044   
