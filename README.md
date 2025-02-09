@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wavpro
 - 👀 I’m interested in web development
-- 🌱 I’m currently working on a top notch trading-tools website for the counter-strike market.
+- 🌱 I’m currently working on a tools for events and music streaming
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:  
     Discord: Wavpro 
