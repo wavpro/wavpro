@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a top notch trading-tools website for the counter-strike market.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:  
-    Discord: Wavpro#3044   
+    Discord: Wavpro 
     Email: albin.hedwall@gmail.com
 
 <!---
